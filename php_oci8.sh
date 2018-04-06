@@ -4,7 +4,7 @@
 sudo apt-get update
 
 # install dependencies
-sudo apt-get install build-essential unzip libaio1 wget php-pear
+sudo apt-get install build-essential unzip libaio1 wget php-pear php7.0-dev
 
 # INSTALL oci8 and oracle instant client
 # create instant client installation folder
