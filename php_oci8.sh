@@ -25,5 +25,5 @@ sudo ln -s /opt/oracle/instantclient/libclntsh.so.12.2 /opt/oracle/instantclient
 sudo ln -s /opt/oracle/instantclient/libocci.so.12.2 /opt/oracle/instantclient/libocci.so
 
 # install oci8
-echo 'instantclient,/opt/oracle/instaltclient' | sudo pecl install oci8
+echo 'instantclient,/opt/oracle/instantclient' | sudo pecl install oci8
 
